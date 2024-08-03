@@ -1,0 +1,1 @@
+lz4.exe param.bin.lz4 param.bin 

@@ -1,0 +1,1 @@
+lz4.exe up_param.bin.lz4 up_param.bin 
