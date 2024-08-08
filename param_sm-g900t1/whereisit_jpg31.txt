@@ -1,1 +1,0 @@
-The 32nd occurrence of the hex sequence 'FFD8FFE0' is at byte position: 863660
